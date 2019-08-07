@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<Platforms>x64</Platforms>
+	</PropertyGroup>
+	<PropertyGroup>
+		<EnableDefaultItems>false</EnableDefaultItems>
+		<AssemblyName>PhysicsFS-CS</AssemblyName>
+		<RootNamespace>PhysicsFS</RootNamespace>
+		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	</PropertyGroup>
+	<ItemGroup>
+		<Compile Include="src\**.cs" />
+	</ItemGroup>
+</Project>
