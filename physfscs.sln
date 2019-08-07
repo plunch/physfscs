@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "physicsfscs", "physfscs\phy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "physfscs-test", "physfscs-test\physfscs-test.csproj", "{E4AF8D0B-B396-4BB8-AFC3-4C2860ACBAD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "physfscs-http", "physfscs-http\physfscs-http.csproj", "{494F2370-6ACD-48E0-93A6-02F36D0649B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{E4AF8D0B-B396-4BB8-AFC3-4C2860ACBAD4}.Release|x64.Build.0 = Release|x64
 		{E4AF8D0B-B396-4BB8-AFC3-4C2860ACBAD4}.Release|x86.ActiveCfg = Release|x86
 		{E4AF8D0B-B396-4BB8-AFC3-4C2860ACBAD4}.Release|x86.Build.0 = Release|x86
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Debug|x64.ActiveCfg = Debug|x64
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Debug|x64.Build.0 = Debug|x64
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Debug|x86.ActiveCfg = Debug|x86
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Debug|x86.Build.0 = Debug|x86
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Release|x64.ActiveCfg = Release|x64
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Release|x64.Build.0 = Release|x64
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Release|x86.ActiveCfg = Release|x86
+		{494F2370-6ACD-48E0-93A6-02F36D0649B5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
